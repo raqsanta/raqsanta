@@ -4,7 +4,7 @@ Hi! I'm a web developer and IT enthusiast from Brazil 🇧🇷.
 
 - 🔭 I'm currently available for full-time work
 - 🌱 I’m currently learning Django<!-- - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... -->
-- 💬 Ping me about design, development, js
+- 💬 Ping me about design, development, javascript
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
