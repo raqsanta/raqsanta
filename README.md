@@ -21,7 +21,7 @@ Hi! I'm a web developer and IT enthusiast from Brazil 🇧🇷.
     <img width=450 height=170 align="center" alt="raqsanta" src="https://github-readme-stats.vercel.app/api?username=raqsanta&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/raqsanta">
-    <img align="center" alt="raqsanta2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raqsanta&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="raqsanta" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raqsanta&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
