@@ -1,11 +1,10 @@
-Hi! I'm a web developer from Brazil 🇧🇷.
+Hi! I'm a web developer and IT enthusiast from Brazil 🇧🇷.
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/) [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-%23ff813f.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoff.ee/)
 
 - 🔭 I'm currently available for full-time work
 - 🌱 I’m currently learning Django<!-- - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything 
-- 📫 How to reach me: ...
+- 💬 Ping me about design, branding, laravel, development, design thinking
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -18,6 +17,13 @@ Hi! I'm a web developer from Brazil 🇧🇷.
 
 </details>
 
+<a href="https://github.com/raqsanta">
+    <img width=450 height=170 align="center" alt="raqsanta" src="https://github-readme-stats.vercel.app/api?username=raqsanta&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/raqsanta">
+    <img align="center" alt="raqsanta" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raqsanta&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
 
 <!--
 
