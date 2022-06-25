@@ -3,7 +3,7 @@ Hi! I'm a web developer and IT enthusiast from Brazil 🇧🇷.
 [![Facebook](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://facebook.com/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dev.to/) [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-%23ff813f.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoff.ee/)
 
 - 🔭 I'm currently available for full-time work
-- 🌱 I’m currently learning Django<!-- - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... -->
+- 🌱 I’m currently learning Django and Jupyter Notebook<!-- - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... -->
 - 💬 Ping me about design, development, javascript
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
