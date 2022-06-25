@@ -12,7 +12,7 @@ Hi! I'm a web developer and IT enthusiast from Brazil 🇧🇷.
     <summary>&#128187<b> Technologies</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Console](https://img.icons8.com/color/30/console.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Console](https://img.icons8.com/color/30/console.png)![Jupyter](https://img.icons8.com/fluency/30/jupyter.png)![Django](https://img.icons8.com/color/30/django.png)![Python](https://img.icons8.com/color/30/python--v1.png)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
